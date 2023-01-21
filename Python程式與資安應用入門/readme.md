@@ -17,7 +17,7 @@
   - [PyCryptodome](https://pypi.org/project/pycryptodome/) 
     - [官方文件PyCryptodome’s documentation](https://pycryptodome.readthedocs.io/en/latest/) 
 - Python在數位鑑識的應用
-  - 記憶體鑑識
+  - 記憶體鑑識(memory forensics)
     - [volatility]()  
 - Python在滲透測試的應用
   - 參考書籍
