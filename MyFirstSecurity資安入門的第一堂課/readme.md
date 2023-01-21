@@ -1,6 +1,6 @@
 
 # MyFirstSecurity資安入門的第一堂課
--【MyFirstSecurity課程】全力啟動你深層的資安戰鬥力！                               
+- MyFirstSecurity資安入門全力啟動你深層的資安戰鬥力！                               
 - 本課程引領學生透過CTF解題來學習資訊安全的觀念與技術。
 
 ## 課程介紹：
