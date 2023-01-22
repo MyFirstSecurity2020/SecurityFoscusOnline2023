@@ -3,7 +3,7 @@
 - 2023年第二次課程報名(2月11日-2月12日)
 
 # SecurityFoscusOnline2023課程模組
-- 從CTF學習資訊安全測試(2023年月開始)
+- 從CTF實戰學習資訊安全測試(2023年2月開始)
   - A1_MyFirstSecurity資安入門的第一堂課
   - A2_Linux資安技術入門
   - A3_Python程式與資安應用入門 
