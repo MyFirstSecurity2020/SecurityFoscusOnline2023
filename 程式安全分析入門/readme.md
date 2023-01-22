@@ -23,14 +23,14 @@
   - 組合語言的AT&T與Intel格式
   - 使用nasm開發簡易組合程式
   - 函數呼叫與參數傳遞
-- D.逆向工程(Reverse Engineering)
+- D.逆向工程(Reverse Engineering)入門
   - 逆向工程
   - 逆向工程常用工具
   - 使用objdump進行逆向工程解題
   - 使用gdb進行逆向工程解題
   - 使用Ghidra進行逆向工程解題
   - 使用radare2進行逆向工程解題
-- E.程式安全測試pwn
+- E.程式安全測試pwn入門
   - 應用程式漏洞
   - Pwntools 應用程式漏洞分析
   - 緩衝區溢位(buffer overflow)漏洞測試
