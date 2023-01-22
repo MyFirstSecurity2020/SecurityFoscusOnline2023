@@ -1,9 +1,9 @@
 
 # MyFirstSecurity資安入門的第一堂課
-- MyFirstSecurity資安入門全力啟動你深層的資安戰鬥力！                               
+- `MyFirstSecurity資安入門的第一堂課`:全力啟動你深層的資安戰鬥力！                               
 - 本課程引領學生透過CTF解題來學習資訊安全的觀念與技術。
 - 本課程從基礎教起，只要你會電腦及強烈的學習態度即可！
-- 我們規劃了趣味性CTF(Capture The Flag)搶旗大賽題目，
+- 我們規劃了趣味性`CTF(Capture The Flag)搶旗大賽`題目，
 - 讓學生充滿自信的學、快樂的學，充分享受一個Happy Hacking Day！！
 
 ## 課程內容：
@@ -20,8 +20,7 @@
   - ASCII   | BASE64  | Base 32  |MORSE code
 - 4_古典密碼與破密分析	
   - 古典密碼加解密:讓我們檢驗古老時代的密碼技術吧?
-    - ROT 13   
-    - 凱薩密碼   
+    - ROT 13 與 凱薩密碼   
     - 密碼棒   
     - Vigenère cipher
   - 古典密碼破密分析:體驗 【暴力破解法】與【頻率分析法】的破密技術
