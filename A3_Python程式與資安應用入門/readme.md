@@ -10,6 +10,11 @@
     - 使用Python求解古典密碼破密分析問題 
     - 使用Python求解PPC(Professional Program Code)問題(pwntools快速入門)
 
+# 上課之前.....就要先練習
+- 請上課的學生先申請google帳號及github帳號[github](https://github.com/)
+  - (1)google帳號申請方式請參閱底下網址:[【教學】如何申請自己的Google帳號？](https://www.youtube.com/watch?v=H1UTrkMIy_4)
+  - (2)Github帳號申請方式請參閱底下網址[Github帳號申請方式](https://how-to-make-docs.readthedocs.io/zh_TW/latest/GoogleDoc/Github%E5%B8%B3%E8%99%9F%E7%94%B3%E8%AB%8B.html)
+    - 第二個參考網址:完成你的github 申請 [官方解說:Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 
 # Python程式:後續研讀建議
 # Python資安應用:後續研讀建議
