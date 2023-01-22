@@ -17,7 +17,7 @@
   - URL redirection的破招
   - HTML method的奧義
 - 3_ 編碼與解碼	你能破解底下的編碼嗎?
-  - ASCII   | BASE64  | Base 32  |MORSE code  |DNA編碼
+  - ASCII   | BASE64  | Base 32  |MORSE code
 - 4_古典密碼與破密分析	
   - 古典密碼加解密:讓我們檢驗古老時代的密碼技術吧?
     - ROT 13   
