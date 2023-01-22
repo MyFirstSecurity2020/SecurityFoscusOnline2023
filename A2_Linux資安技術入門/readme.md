@@ -19,3 +19,11 @@
     - 使用hex編輯器分析檔案
     - 使用Linux的dd、binwalk指令解圖片隱寫術
 - D.網路封包分析入門 
+
+#  預先作業
+- (1)在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並參考底下影片完成安裝 
+  - [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
+- (2)下載linux:linux下載點如下(請先下載這些龐大的系統,每一台電腦都要有|會花很多時間~20/30分鐘左右)
+  - HappyLinuxDay會用到的Kali Linux [下載點](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
+  - HappyPythonDay會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
+- (3)匯入你要用的linux : 請參考影片匯入 [YOUTUBE影片](https://youtu.be/GTpQR7fZcwE)
