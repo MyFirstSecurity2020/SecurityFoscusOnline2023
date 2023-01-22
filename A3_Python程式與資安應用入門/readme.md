@@ -27,8 +27,8 @@
     - Scapy 
     - Impacket
   - 記憶體鑑識(memory forensics)
-    - [volatility]() 
-    - Rekall 
+    - [volatility](https://www.volatilityfoundation.org/) 
+    - [Rekall](http://www.rekall-forensic.com/) 
 - Python在滲透測試的應用
   - 參考書籍
     - Black Hat Python [黑帽 Python｜給駭客與滲透測試者的 Python 開發指南, 2/e ](https://www.tenlong.com.tw/products/9786263240377?list_name=srh)
