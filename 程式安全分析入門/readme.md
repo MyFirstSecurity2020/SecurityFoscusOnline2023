@@ -22,7 +22,7 @@
   - 認識組合語言程式:指令|暫存器|記憶體
   - 組合語言的AT&T與Intel格式
   - 使用nasm開發簡易組合程式
-  - 函數呼叫與參數傳遞
+  - CALLING CONVENTION:函數呼叫與參數傳遞
 - D.逆向工程(Reverse Engineering)入門
   - 逆向工程
   - 逆向工程常用工具
