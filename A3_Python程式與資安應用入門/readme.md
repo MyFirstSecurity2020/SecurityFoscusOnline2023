@@ -5,6 +5,11 @@
 - 本課程更以趣味的CTF題目(編碼與解碼|古典密碼學|PPC)解題來提高學生學習的熱情。
 - 課程內容
   - A.Python程式入門
+  　- 1.基本輸入與輸出 ==>格式化輸出
+　　- 2.Python資料型態(data Type)及其各種運算：數值(Numeric)｜字串(string)｜列表(list)｜字典(dict)
+　　- 3.python決策與選擇結構==>　if ｜ if..elsif ｜　if..else　｜　if..elsif..elsif..else
+　　- 4.廻圈(loop)：range（） 函式　｜for 廻圈　｜　while 廻圈　｜continue 指令與 break 指令
+　　- 5.函數(function)：　函數與呼叫｜　python內建函數(builtin functions)　｜　lambda函數　｜遞迴函數
   - B.Python資安應用入門
     - 使用Python求解編碼與解碼問題
     - 使用Python求解古典密碼破密分析問題 
@@ -17,6 +22,9 @@
     - 第二個參考網址:完成你的github 申請 [官方解說:Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 
 # Python程式:後續研讀建議
+- Python模組開發
+- Python物件導向程式設計
+
 # Python資安應用:後續研讀建議
 - Python在現代密碼破密分析的應用
   - [PyCryptodome](https://pypi.org/project/pycryptodome/) 
