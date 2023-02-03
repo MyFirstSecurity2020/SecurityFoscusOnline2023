@@ -13,9 +13,9 @@ keyword "LEMON"
 
 ## 使用[線上工具](https://cryptii.com/pipes/vigenere-cipher)
 
-![加密](./)
+![加密](./Encrypt.JPG)
 
-![解密](./)
+![解密](./decrypt.JPG)
 
 
 - [英文解答Vigenere CIpher](https://www.youtube.com/watch?v=SkJcmCaHqS0)
