@@ -34,6 +34,10 @@ curl -v http://ip:3001/index.php
 
 curl -X POST -v http://ip:3001/index.php
 
+curl -X HEAD http://120.114.62.215:3001/index.php
+
+curl -I HEAD http://120.114.62.215:3001/index.php
+
 curl -X OPTIONS  -v http://ip:3001/index.php
 
 curl -X GETFLAG  -v http://ip:3001/index.php
