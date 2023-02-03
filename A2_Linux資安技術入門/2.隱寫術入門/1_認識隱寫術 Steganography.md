@@ -34,6 +34,9 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 ```
 
 # 動手隱藏八~~ 隱寫術(Steganography)實戰  [Steganography Online](https://stylesuxx.github.io/steganography/)
+- [從網路上下載的貓](./cat.jpg)
+- [請你找出隱寫貓的Flag](./mycat.png)
+
 # 本課程 是 讓 學生 理解 如何進行 基礎隱寫術 的 分析
 
 
