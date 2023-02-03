@@ -1,4 +1,4 @@
-## 4_使用wireshark分析HTTP Basic Authentication(認證)封包 [YOUTUBE教學影片](https://youtu.be/IH3Q7jdDX5s)
+## 3_使用wireshark分析HTTP Basic Authentication(認證)封包 [YOUTUBE教學影片](https://youtu.be/IH3Q7jdDX5s)
 
 ### [HTTP 協定](https://github.com/MyFirstSecurity2020/SecurityFirst2022/blob/main/DAY1/HappyLinuxDay/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80/HTTP.md)
 
