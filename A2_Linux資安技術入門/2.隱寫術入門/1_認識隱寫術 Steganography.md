@@ -24,7 +24,8 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 
 所以不要隨便下載咚咚!危險!
 ```
-# [ithome報導(2021-04-22) 文/周峻佑 | 2021-04-22](https://www.ithome.com.tw/news/143981)
+# stegmalware
+- [ithome報導(2021-04-22) 文/周峻佑 | 2021-04-22](https://www.ithome.com.tw/news/143981)
 ```
 藏匿惡意程式的手法越來越繁複！北韓駭客Lazarus濫用BMP圖檔及內嵌壓縮檔案，並搭配圖檔格式轉換等多重手法，來藏匿木馬程式
 
@@ -32,11 +33,16 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 而最近，北韓駭客組織Lazarus將這種手法運用於散布木馬程式上，他們透過BMP圖檔與反覆的呼叫手法，來偷渡惡意程式，
 進而在受害電腦上竊密
 ```
+- [圖像隱碼術(Steganography)與惡意程式：原理和方法](https://blog.trendmicro.com.tw/?p=12510)
+- [How Steganography Allows Attackers to Evade Detection](https://www.esecurityplanet.com/threats/how-steganography-allows-attackers-to-evade-detection/)
 
 # 動手隱藏八~~ 隱寫術(Steganography)實戰  [Steganography Online](https://stylesuxx.github.io/steganography/)
 - [從網路上下載的貓](./cat.jpg)
 - [請你找出隱寫貓的Flag](./mycat.png)
 
 # 本課程 是 讓 學生 理解 如何進行 基礎隱寫術 的 分析
+# 以後有興趣還可以看看[人工智慧隱寫術 ]
+- [英文手冊](https://stegano.readthedocs.io/en/latest/) 
+- [教學影片Hide Text in Image with Python - Stegano](https://www.youtube.com/watch?v=IhXbJfLCst0)
 
 
