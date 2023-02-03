@@ -5,6 +5,16 @@
 - curl的windows版
   - windows 10以上已經支援
   - [其他版本則需到官方網址下載](https://curl.se/download.html)
+
+# [HTTP(Hypertext Transfer Protocol)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+
+![web1.png](./web1.png)
+![web2.png](./web2.png)
+
+# HTTP method
+- [Http Method(Http方法)介紹 和 跨來源資源共用（CORS）](https://hackmd.io/@Not/rJoRFJa3S)
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
 - [使用 Curl 來進行發送 HTTP Request封包](https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/)
 
 | 參數 | | 說明 |
@@ -16,11 +26,6 @@
 | -v| --verbose     |                      輸出更多的訊息方便 debug| 
 | -u| --user       |                       攜帶使用者帳號、密碼| 
 | -b| --cookie      |                      攜帶 cookie（可以是參數或是檔案位置）| 
-
-# HTTP method
-- [Http Method(Http方法)介紹 和 跨來源資源共用（CORS）](https://hackmd.io/@Not/rJoRFJa3S)
-- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-
 # 測試步驟
 ```
 curl -X GET -v http://ip:3001/index.php
