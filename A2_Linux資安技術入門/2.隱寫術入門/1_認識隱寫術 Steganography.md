@@ -37,14 +37,18 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 - [圖像隱碼術(Steganography)與惡意程式：原理和方法](https://blog.trendmicro.com.tw/?p=12510)
 - [How Steganography Allows Attackers to Evade Detection](https://www.esecurityplanet.com/threats/how-steganography-allows-attackers-to-evade-detection/)
 
+# [`歐洲刑警組織支持的CUING倡議(The Europol-supported CUING initiative)`](https://cuing.eu/)持續監控 隱寫術在惡意軟體中的使用狀況
+
 # 動手隱藏八~~ 隱寫術(Steganography)實戰  [Steganography Online](https://stylesuxx.github.io/steganography/)
 - [從網路上下載的貓](./cat.jpg)
 - [請你找出隱寫貓的Flag](./mycat.png)
 
 # 本課程 是 讓 學生 理解 如何進行 基礎隱寫術 的 簡易[Steganalysis](https://en.wikipedia.org/wiki/Steganalysis)分析
+
 # python Image Steganography and Python Steganalysis(以後有時間八)
   - 測看看吧[Stegano, a pure Python Steganography module.](https://pypi.org/project/stegano/)
-## 以後有興趣還可以看看[人工智慧隱寫術 steganogan(看不懂不要問我,我也不會)](https://github.com/DAI-Lab/SteganoGAN)
+
+## 有興趣還可以看看[人工智慧隱寫術 steganogan(看不懂不要問我,我也不會)](https://github.com/DAI-Lab/SteganoGAN)
 - An open source project from Data to AI Lab at MIT.
 - [2019年 MIT 論文SteganoGAN: High Capacity Image Steganography with GANs](https://arxiv.org/abs/1901.03892#:~:text=Image%20steganography%20is%20a%20procedure,presence%20of%20the%20message%20itself.)
 - [英文手冊](https://stegano.readthedocs.io/en/latest/) 
