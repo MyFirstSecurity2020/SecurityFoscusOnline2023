@@ -5,14 +5,12 @@ plaintext():attackatdawn
 keyword "LEMON"
 加密後的秘文()為何 ?
 ```
-```
-attackatdawn
+# 明文:ATTACKATDAWN
 
-LEMONLEMONLEMON
+# 金鑰:LEMONLEMONLEMON
 
-l
+# 密文:LXF0PVEFRNHR
 
-```
 - [解答Vigenere CIpher](https://www.youtube.com/watch?v=SkJcmCaHqS0)
 
 ![Vigenère_square.png](Vigenère_square.png)
