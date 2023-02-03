@@ -24,7 +24,7 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 
 所以不要隨便下載咚咚!危險!
 ```
-# stegmalware
+# [`Stego`malware(Steganography Malware)](https://en.wikipedia.org/wiki/Stegomalware) 使用隱寫術來阻礙'資安偵測'的惡意軟體
 - [ithome報導(2021-04-22) 文/周峻佑 | 2021-04-22](https://www.ithome.com.tw/news/143981)
 ```
 藏匿惡意程式的手法越來越繁複！北韓駭客Lazarus濫用BMP圖檔及內嵌壓縮檔案，並搭配圖檔格式轉換等多重手法，來藏匿木馬程式
