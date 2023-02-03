@@ -10,6 +10,7 @@ attackatdawn
 
 LEMONLEMONLEMON
 
+l
 
 ```
 - [解答Vigenere CIpher](https://www.youtube.com/watch?v=SkJcmCaHqS0)
