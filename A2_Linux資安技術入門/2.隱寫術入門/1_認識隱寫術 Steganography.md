@@ -40,14 +40,15 @@ Video Stegonagraphy:隱藏在影片的機密[壞蛋行為:在MP4 等 影像檔�
 - [從網路上下載的貓](./cat.jpg)
 - [請你找出隱寫貓的Flag](./mycat.png)
 
-# 本課程 是 讓 學生 理解 如何進行 基礎隱寫術 的 簡易分析
-# P
+# 本課程 是 讓 學生 理解 如何進行 基礎隱寫術 的 簡易[Steganalysis](https://en.wikipedia.org/wiki/Steganalysis)分析
+# Python Steganalysis
 ## 以後有興趣還可以看看[人工智慧隱寫術 steganogan(看不懂不要問我,我也不會)](https://github.com/DAI-Lab/SteganoGAN)
 - An open source project from Data to AI Lab at MIT.
 - [2019年 MIT 論文SteganoGAN: High Capacity Image Steganography with GANs](https://arxiv.org/abs/1901.03892#:~:text=Image%20steganography%20is%20a%20procedure,presence%20of%20the%20message%20itself.)
 - [英文手冊](https://stegano.readthedocs.io/en/latest/) 
 - [教學影片Hide Text in Image with Python - Stegano](https://www.youtube.com/watch?v=IhXbJfLCst0)
-## (看不懂不要問我,我也不會)系列之2: Google研究人員的論文 [Hiding Images in Plain Sight: Deep Steganography](https://dl.acm.org/doi/pdf/10.5555/3294771.3294968) 
+## (看不懂不要問我,我也不會)系列之2: 
+- Google研究人員的論文 [Hiding Images in Plain Sight: Deep Steganography](https://dl.acm.org/doi/pdf/10.5555/3294771.3294968) 
 - [待測試的實作:Hiding Images In plain sight: Deep Steganography]() [YOUTUBE影片](https://www.youtube.com/watch?v=8Rcr7_Khldk)
 
 
