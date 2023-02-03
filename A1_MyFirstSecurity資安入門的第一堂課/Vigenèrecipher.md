@@ -7,7 +7,7 @@ keyword "LEMON"
 ```
 # 明文:ATTACKATDAWN
 
-# 金鑰:LEMONLEMONLEMON
+# 金鑰:LEMONLEMONLE
 
 # 密文:LXF0PVEFRNHR
 
