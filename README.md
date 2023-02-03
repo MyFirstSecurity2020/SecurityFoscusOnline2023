@@ -1,4 +1,4 @@
-# SecurityFoscusOnline2023 [20230202]上課資訊
+# SecurityFoscusOnline2023 上課資訊
 - 2023年第一次課程(2月4日-2月5日) [點選此處 == >開始上課了](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/2023020405.md)
 
 # SecurityFoscusOnline2023報名資訊
