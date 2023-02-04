@@ -1,5 +1,5 @@
-## 1_使用Python求解變形caesar密碼
-- 示範題目:Crypto 101:RC3 CTF 2016 : salad-100
+## 1_使用Python求解變形caesar密碼 {Crypto102::CRY12_變形caesar密碼}
+
 ```
 import string
 
