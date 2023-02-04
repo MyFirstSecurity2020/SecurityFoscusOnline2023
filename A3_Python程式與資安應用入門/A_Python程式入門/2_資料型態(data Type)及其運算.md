@@ -130,15 +130,14 @@ print(y)
 https://www.w3schools.com/python/python_ref_functions.asp
 ```
 ### [4]Python 型態轉換
-```
-資料類型的轉換只需要將資料類型作為函數名即可。
-int(x) 將x轉換為一個整數。
-float(x) 將x轉換到一個浮點數。
-complex(x) 將x轉換到一個複數，實數部分為 x，虛數部分為 0。
-complex(x, y) 將 x 和 y 轉換到一個複數，實數部分為 x，虛數部分為 y。x 和 y 是數字運算式。
-```
+- 資料類型的轉換只需要將資料類型作為函數名即可。
+- int(x) 將x轉換為一個整數。
+- float(x) 將x轉換到一個浮點數。
+- complex(x) 將x轉換到一個複數，實數部分為 x，虛數部分為 0。
+- complex(x, y) 將 x 和 y 轉換到一個複數，實數部分為 x，虛數部分為 y。x 和 y 是數字運算式。
+
 ### 範例:
-```
+```python
 a = 1.0004
 int(a)
 
@@ -147,16 +146,14 @@ int(a)
 ```
 ### 數字系統(number system)的轉換
 - [數目系統(number system)之n進位制說明](https://zh.wikipedia.org/wiki/進位制)
-```
-10進位(Decimal)  二進位(binary)  八進位(Octal)  十六進位(Hexadecimal)
+- 10進位(Decimal)  二進位(binary)  八進位(Octal)  十六進位(Hexadecimal)
+- 1011(二進位) = 1*(2**2)+0*(2**2)+1*(2**1)+1*(2**0)
+- 1011(二進位) = 13(八進位) = B(十六進位) = 11(十進位)
+- Python表示法:
+  - 0b1011(二進位:0b開頭)  
+  - 0o13(八進位:0o開頭)   
+  - 0xb(十六進位:0x開頭)
 
-1011(二進位) = 1*(2**2)+0*(2**2)+1*(2**1)+1*(2**0)
-
-1011(二進位) = 13(八進位) = B(十六進位) = 11(十進位)
-
-Python表示法:
-0b1011(二進位:0b開頭)  0o13(八進位:0o開頭)   0xb(十六進位:0x開頭)
-```
 
 ###  使用Python 內建函數(Built in Functions)解決  數字系統的轉換問題
 
@@ -170,7 +167,7 @@ hex()
 ```
 
 ### 給你十進位的 344, 二進位(binary)|八進位(octal)|十六進位(hexadecimal)是多少?
-```
+```python
 dec = 344
 
 print("10進位數字",dec,"可被轉換成:")
@@ -206,20 +203,15 @@ base -- 進制數，預設是十進位。
 [2]string字串的運算
 [3]Python内建的字串函数(Built-in String Methods)
 ```
-### [2_1]string字串 資料型態(data type) 
-```
-變數值以一對雙引號 (「"」)或單引號 (「'」)
+- string字串 資料型態(data type) 
+  - 變數值以一對雙引號 (「"」)或單引號 (「'」)
+  - str1 = '這是字串'
+  - str2 = "這也是字串"
+  - str3 = 'allows embedded "double" quotes'
+- string字串的運算:存取字串中的值: 使用方括號
 
-str1 = '這是字串'
-str2 = "這也是字串"
-str3 = 'allows embedded "double" quotes'
-```
-## [2_2]string字串的運算
-```
-存取字串中的值: 使用方括號
-```
 ### [實作練習]底下程式執行後結果為何?
-```
+```python
 var1 = 'Hello Python!'
 
 print("var1[0]: ", var1[0])
@@ -253,22 +245,14 @@ mystr = 'python'
 str4.find(pyth, beg=0, end=len(str4))
 ```
 # 3_列表(list)資料及其運算
-```
-LIST是 Python 中最基本的資料結構。
-
-LIST使用一個方括號內的逗號分隔值出現。
-
-LIST的每個值都有對應的位置，稱之為索引( index)，
-
-第一個索引是 0，第二個索引是 1，依此類推。
-
-LIST都可以進行的操作包括索引，切片，加，乘，檢查成員。
-
-Python 內建許多函數: 
-1.len(list):元素個數
-2.max(list)返回元素最大值
-3.min(list):返回元素最小值
-```
+- LIST是 Python 中最基本的資料結構。
+- LIST使用一個方括號內的逗號分隔值出現。
+- LIST的每個值都有對應的位置，稱之為索引( index) | 第一個索引是 0，第二個索引是 1，依此類推。
+- LIST都可以進行的操作包括索引，切片，加，乘，檢查成員。
+- Python 內建許多LIST函數: 
+  - 1.len(list):元素個數
+  - 2.max(list)返回元素最大值
+  - 3.min(list):返回元素最小值
 
 ### 範例 1:底下程式執行後結果為何?
 ```
@@ -277,36 +261,28 @@ list1 = [21, 33, 14, 12, 32, 98]
 list1[1]
 list1[-2]
 list1[1:3]  # 切片運算
-```
-### 範例 2:[內建函數]底下程式執行後結果為何?
-```
-list1 = [21, 33, 14, 12, 32, 98]
 
+#[內建函數]練習
 len(list1)
 max(list1)
 min(list1)
 sum(list1)
 ```
 ## 4_字典(dict)資料及其運算
-```
-字典的每筆資料都使用key(鍵)=>value(值) pair(對)
-每筆資料都使用冒號 : 分割
-每對之間用逗號(,)分割，
-整個字典包括在花括弧 {} 
+- 字典的每筆資料都使用key(鍵)=>value(值) pair(對)
+- 每筆資料都使用冒號 : 分割
+- 每對之間用逗號(,)分割，
+- 整個字典包括在花括弧 {} 
+- key(鍵)必須是唯一的，但value(值)則不必。
+- Python 內建許多函數: 
+  - len(dict):計算字典元素個數，即鍵的總數。
+- Python 內建許多方法(Method):
+  - 字典.items():以列表返回LIST陣列
+  - 字典.keys():返回所有keys
+  - 字典.values():返回所有values
 
-key(鍵)必須是唯一的，但value(值)則不必。
-
-Python 內建許多函數: 
-    len(dict):計算字典元素個數，即鍵的總數。
-
-
-Python 內建許多方法(Method):
-字典.items():以列表返回LIST陣列
-字典.keys():返回所有keys
-字典.values():返回所有values
-```
-### 定義方式:
-```
+### 字典(dict)資料的定義方式:
+```python
 a = dict(one=1, two=2, three=3)
 b = {'one': 1, 'two': 2, 'three': 3}
 c = dict(zip(['one', 'two', 'three'], [1, 2, 3]))
@@ -317,26 +293,20 @@ a == b == c == d == e == f
 ```
 True
 ### 範例 1:底下程式執行後結果為何?
-```
+```python
 dict = {'Name': 'DaDaLong', 'Age': 17, 'Class': 'First'}
 
 print("dict['Name']: ", dict['Name'])
 print("dict['Age']: ", dict['Age'])
-```
-###  範例 2:底下程式執行後結果為何?
-```
-dict = {'Name': 'DaDaLong', 'Age': 17, 'Class': 'First'}
+
 dict.items()
-```
-###  範例 3:[程式比較]和上述程式輸出有何不同?
-```
-dict = {'Name': 'DaDaLong', 'Age': 17, 'Class': 'First'}
+
 list(dict.items())
-dict = {'Name': 'DaDaLong', 'Age': 17, 'Class': 'First'}
+
 list(dict.keys())
 ```
 ### 應用範例程式
-```
+```python
 使用字典(dict)資料攢成簡單的小寫英文字母 的ASCII 字典
 https://en.wikipedia.org/wiki/ASCII
  a-->97  ... z-->122
@@ -356,7 +326,7 @@ for num in range(97,123):
 ascii_a2z = {alpha: ord(alpha) for alpha in alphas}
 ascii_a2z
 ```
-# [進階研讀]標準函式庫還定義有許多資料型態[不必教]
+# [進階研讀]標準函式庫還定義有許多資料型態
 ```
 The Python Standard Library
 https://docs.python.org/3/library/
