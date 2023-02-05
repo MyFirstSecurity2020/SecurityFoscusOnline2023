@@ -1,6 +1,8 @@
 # 編碼102:Internetwache CTF 2016 : The hidden message
 ```
-My friend really can’t remember passwords. So he uses some kind of obfuscation. Can you restore the plaintext?
+My friend really can’t remember passwords. 
+So he uses some kind of obfuscation. 
+Can you restore the plaintext?
 
 Attachment: misc50.zip
 ```
