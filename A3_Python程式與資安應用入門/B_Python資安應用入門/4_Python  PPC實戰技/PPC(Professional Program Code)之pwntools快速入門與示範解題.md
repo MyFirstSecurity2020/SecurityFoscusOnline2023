@@ -68,12 +68,12 @@ optional arguments:
     - conn = remote('ip_address', port_num)
     - conn = remote('173.4.5.1', 8888) 
   - 與本地端程式(使用process())==> conn = process('./pwn1')
-- 接收資料
+- 接收資料 receive
   - recv(numb=1096, timeout=default)：接收指定位元組數的資料
   - recvall()：接收資料直到 EOF
   - recvline(keepends=True)：接收一行，可選擇是否保留行尾的 \n
   - recvlines(N):接收 N行輸出
-  - recvrepeat(timeout=default)：接收資料直到 EOF 或 timeout
+  - recvrepeat(timeout=default)：接收資料直到 EOF(END of FILE) 或 timeout
   - recvuntil(delims, timeout=default)：接收資料直到 delims 出現
 - 傳資料
   - send(data)：發送資料
