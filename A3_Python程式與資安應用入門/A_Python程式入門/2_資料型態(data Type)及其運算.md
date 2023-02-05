@@ -61,13 +61,14 @@ https://www.w3schools.com/python/python_operators.asp
 |%	|取餘數|	a % b|
 
 ### [實作練習]底下程式執行後結果為何?
-```
+```python
 a = 17 / 3
 b = 17 // 3
 c = 17 % 3
 
 a,b,c
 ```
+- result = divmod(8, 3)
 ## CTF TIME 練習:Python101:11的51次方
 ## CTF TIME 練習:Python101:RSA加密演算法的數學計算
 
