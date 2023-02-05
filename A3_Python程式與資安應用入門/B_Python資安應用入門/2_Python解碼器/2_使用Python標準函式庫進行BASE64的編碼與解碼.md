@@ -24,6 +24,14 @@ https://bitbucket.org/dhellmann/pymotw-3/src/master/
 ```
 
 ## Python 標準函式庫的Base 64 模組
+- [官方文件](https://docs.python.org/zh-tw/3/library/base64.html)
+- 此模組可以最底下編碼與解碼:
+  - Base16  
+  - Base32
+  - Base64 == > base64.b64encode(s, altchars=None)  | base64.b64decode(s, altchars=None, validate=False)
+  - Base85 
+  - Ascii85
+- [Python base64 編碼用法與範例](https://shengyu7697.github.io/python-base64/)
 ```
 What does the 'b' character do in front of a string literal?
 
