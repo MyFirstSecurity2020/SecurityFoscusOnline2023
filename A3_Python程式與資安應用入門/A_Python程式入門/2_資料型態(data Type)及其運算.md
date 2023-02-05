@@ -31,6 +31,7 @@ Python有眾多資料型態(data Type)及其各種運算
 運算子優先順序
 
 [3]內建的各種數學函數(Built-in functions)
+math模組 https://www.w3schools.com/python/module_math.asp
 ```
 ```
 Python 支持三種不同的數值型別(Data Type)：
