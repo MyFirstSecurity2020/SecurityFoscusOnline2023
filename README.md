@@ -1,14 +1,14 @@
 # SecurityFoscusOnline2023 上課資訊
 - 2023年第四次課程(2023年3月1-5日 (三-日)) 
-  - 3月1日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230301.md)
+  - 3月1日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230301)
   - 3月3日[即將公布]
   - 3月4日[即將公布]
 
 
 # SecurityFoscusOnline2023歷史資料
 - 2023年第一次課程(2月4日-5日):完整課程
-- 2023年第二次課程(2月11日-12日):完整課程 [課程資料](https://github.com/MyFirstSecurity2020/20230211.md)
-- [2023年第三次課程(2月19日)](https://github.com/MyFirstSecurity2020/20230219.md)
+- 2023年第二次課程(2月11日-12日):完整課程 [課程資料](https://github.com/MyFirstSecurity2020/20230211)
+- [2023年第三次課程(2月19日)](https://github.com/MyFirstSecurity2020/20230219)
 
 # SecurityFoscusOnline2023課程模組
 - 從CTF實戰學習資訊安全測試(2023年2月開始)
