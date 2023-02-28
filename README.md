@@ -3,12 +3,11 @@
 - 2023年第三次課程(2月19日) [點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230219)
 - 2023年第三次課程(2月19日) [點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230219)
 
-# SecurityFoscusOnline2023報名資訊
-- 2023年第四次課程報名(2月x日-2月x日)
 
 # SecurityFoscusOnline2023歷史資料
 - 2023年第一次課程(2月4日-5日):完整課程
 - 2023年第二次課程(2月11日-12日):完整課程
+- [2023年第三次課程(2月19日)](https://github.com/MyFirstSecurity2020/20230219)
 
 # SecurityFoscusOnline2023課程模組
 - 從CTF實戰學習資訊安全測試(2023年2月開始)
@@ -16,7 +15,7 @@
   - A2_Linux資安技術入門
   - A3_Python程式與資安應用入門 
 - 程式安全測試入門(預計2023年6月開始)
-
+- Linux 雲端技術與資安應用入門(預計2023年10月開始)
 # SecurityFoscusOnline2023課程推動模式與活動
 - 模式一:周末資安行
   - 只要一個星期六與星期日完整上完A1-A3課程模組
