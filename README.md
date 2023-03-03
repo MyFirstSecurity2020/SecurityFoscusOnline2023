@@ -6,10 +6,12 @@
 
 # SecurityFoscusOnline2023課程推動活動
 - 不定期舉辦實體強化班 針對Linux課程部分加強互動
-- 聯合舉辦課程推動活動
+- 聯合舉辦課程推動活動(3月)
   - 台南一中 | 大甲高中
   - 北門高中
   - 新北 永平高中 
+- TaiwanHolyHigh Junior
+
 # SecurityFoscusOnline2023 上課
 - 底下所有GITHUB線上教材及教學錄影都會持續開放並陸續增加內容 == >同學可以盡情學習~無分晝夜
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
