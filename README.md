@@ -22,6 +22,7 @@
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
   - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3)
 - CTF平台及證書發放~限定於開課期間才會開放 歐
+  - 原則: 
 
 # SecurityFoscusOnline2023歷史資料
 - 2023年第一次課程(2月4日-5日):完整課程
