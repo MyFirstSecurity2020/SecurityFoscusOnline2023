@@ -1,11 +1,11 @@
 # SecurityFoscusOnline2023 上課資訊
-- 2023年第四次課程(2023年3月1-5日 (三-日)) 
+- 2023年第四次課程(2023年3月1-5日 (星期三-星期日)) 
   - 3月1日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230301)
   - 3月2日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230302)
   - 3月4日[即將公布]
 
 # SecurityFoscusOnline2023 上課
-- 底下所有GITHUB線上教材及教學錄影都會持續開放並陸續增加內容 == >同學可以盡情學習無分晝夜
+- 底下所有GITHUB線上教材及教學錄影都會持續開放並陸續增加內容 == >同學可以盡情學習~無分晝夜
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
   - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3)
