@@ -11,6 +11,8 @@
   - 北門高中 | XX國中
   - 新北 永平高中 
 - TaiwanHolyHigh Junior
+  - SecurityFoscusOnline(Testing)2023
+  -  
 
 # SecurityFoscusOnline2023 上課
 - 底下所有GITHUB線上教材及教學錄影都會持續開放並陸續增加內容 == >同學可以盡情學習~無分晝夜
