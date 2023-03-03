@@ -3,6 +3,8 @@
   - 3月1日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230301)
   - 3月2日[點選此處 == >開始上課了(上課前才會公告)](https://github.com/MyFirstSecurity2020/20230302)
   - 3月4日[即將公布]
+    - 主持人:
+    - 信件:負責的助理依據規定的格式寄送 
 
 # SecurityFoscusOnline2023課程推動活動
 - 不定期舉辦實體強化班 針對Linux課程部分加強互動
@@ -11,7 +13,7 @@
   - 北門高中 | XX國中
   - 新北 永平高中 
 - TaiwanHolyHigh Junior
-  - SecurityFoscusOnline(Testing)2023
+  - SecurityFoscusOnline(Testing)2023  ~ 20-40  ~ 6月
   -  
 
 # SecurityFoscusOnline2023 上課
