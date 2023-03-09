@@ -3,7 +3,9 @@
   - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
   - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
   - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
-
+  - 3.8-10 請先自己先學習部分主題
+  - 3.11 會有講師示範各類型主題的技術 歐
+  - 本課程強調自主學習 所以3.11上課前一定要先自己(配合錄影教學)完成部分主題歐
 # SecurityFoscusOnline2023 上課
 - 底下所有GITHUB線上教材及教學錄影都會持續開放並陸續增加內容 == >同學可以盡情學習~無分晝夜
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
