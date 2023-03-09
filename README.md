@@ -1,8 +1,8 @@
 # SecurityFoscusOnline2023 上課資訊
 - 2023年第五次課程(2023年|3月8日-3月12日 (星期三-星期日)) 
-  - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
-  - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
-  - [點此連結開始自學](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
   - 3.8-10 請先自己先學習部分主題
   - 3.11 會有講師示範各類型主題的技術 歐
   - 本課程強調自主學習 所以3.11上課前一定要先自己(配合錄影教學)完成部分主題歐
