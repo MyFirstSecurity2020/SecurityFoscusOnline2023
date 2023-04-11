@@ -1,5 +1,5 @@
 # SecurityFoscusOnline2023 上課資訊
-- 2023年第六次課程(2023年|4月5日-4月9日 (星期三-星期日)) 
+- 2023年第七次課程(2023年|4月15日、4月22日 (星期六)) 
   - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
   - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
   - [點此連結開始學習](https://github.com/MyFirstSecurity2020/20230308/blob/main/README.md)
@@ -21,6 +21,7 @@
 - 2023年第三次課程(2月19日):新北 永平高中 Linux 強化班
 - 2023年第四次課程(2023年3月1-5日 (星期三-星期日)) 
 - 2023年第五次課程(2023年3月8-12日 (星期三-星期日)) 
+- 2023年第六次課程(2023年4月5-9日 (星期三-星期日)) 
 
 # SecurityFoscusOnline2023課程模組
 - 從CTF實戰學習資訊安全測試(2023年2月開始)
