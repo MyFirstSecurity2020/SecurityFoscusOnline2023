@@ -1,8 +1,8 @@
 # SecurityFoscusOnline2023 上課資訊
 - 2023年第八次課程(2023年|5月24日(星期三)-5月28日 (星期日)) 
-  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/7fc121821257fe218967519921c45f358cc00d26/20230524.md)
-  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/7fc121821257fe218967519921c45f358cc00d26/20230524.md)
-  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/7fc121821257fe218967519921c45f358cc00d26/20230524.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/8c7e5b89b14c42c1cd1e85099be5a5105b0ca2e3/20230524.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/8c7e5b89b14c42c1cd1e85099be5a5105b0ca2e3/20230524.md)
+  - [點此連結開始學習](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/8c7e5b89b14c42c1cd1e85099be5a5105b0ca2e3/20230524.md)
   - 5.24-25 請先自己先學習部分主題
   - 5.26 CTF平台開啟，可以開始解題啦!
   - 5.27 會有講師示範各類型主題的技術 歐
